@@ -1,0 +1,6 @@
+# 비밀 정보 (KRX 로그인은 코랩 '보안 비밀'에만 둔다)
+.env
+*.secret
+# 코랩/주피터 임시 파일
+.ipynb_checkpoints/
+__pycache__/
